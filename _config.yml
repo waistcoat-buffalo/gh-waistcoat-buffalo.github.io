@@ -11,37 +11,35 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Karma's Blog
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Papers & Methodologies & Psychologies  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+    papers, blogs, methodology, notes, psychology, mind, karmastring
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://waistcoat-buffalo.github.io'
 
-author: your_full_name                  # change to your full name
+author: Karma String # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: waistcoat-buffalo # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+  #username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Karma String # it will shows as the copyright owner in Footer
+  email: karma.string.0927@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/KarmaString       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +79,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /akane.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -90,7 +88,7 @@ disqus:
   comments: false  # boolean type, the global switch for posts comments.
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-paginate: 10
+paginate: 7
 
 # ------------ The following options are not recommended to be modified ------------------
 
