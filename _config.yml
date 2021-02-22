@@ -17,6 +17,7 @@ timezone: America/New_York
 # --------------------------
 title: Karma's Blog
 
+
 tagline: Papers & Methodologies & Psychologies  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
